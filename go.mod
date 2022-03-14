@@ -2,7 +2,7 @@ module bybit-learn-api
 
 go 1.17
 
-require github.com/frankrap/bybit-api v1.0.8
+require github.com/TerminusDeus/bybit-api v1.0.10
 
 require (
 	github.com/json-iterator/go v1.1.9 // indirect
